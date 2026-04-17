@@ -1,0 +1,11 @@
+{
+  "firstname": "Haluk",
+  "lastname": "Ural",
+  "totalprice": 987,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-05-01",
+    "checkout": "2026-05-10"
+  },
+  "additionalneeds": "Breakfast"
+}
