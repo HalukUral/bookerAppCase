@@ -15,7 +15,7 @@ Scenario 1 : Create a new booking with valid information successfully (Positive 
 ### Update User with PUT Request Scenarios:
 ```bash
 Scenario 1 : Update a booking data by ID successfully(Positive Scenario) 
-
+```
 ### Get User Data Scenarios:
 ```bash
 Scenario 1 : Get a booking data by ID successfully(Positive Scenario) 
